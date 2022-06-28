@@ -7,7 +7,7 @@
 
 <hr>
 
-<a href="showForm">Hello World Form</a>
+<a href="${pageContext.request.contextPath}/hello/showForm">Hello World Form</a>
 
 </body>
 </html>
